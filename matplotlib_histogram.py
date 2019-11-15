@@ -1,4 +1,4 @@
-Learn more or give us feedback
+
 #Everything  starting with "#" is a comment and is ignored by compilers.
 #Pairplots using Iris.csv dataset.
 #Importing libraries
