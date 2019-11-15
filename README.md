@@ -17,8 +17,7 @@ Statistical data types:<br/>
  2) Categorical Data.<br/> This data type does not have mathematical meaning,They are also know as qualitative data and describes characteristics. 
  <br/>
  Examples: <br/>
- Gender, Enthinicity,Nationality. etc<br/>
- 
+ Gender, Enthinicity,Nationality. etc <br/>
  3) Ordina Data.
   <br/> This data type mixes numerical and categorical data types A good example is Hotel Rating;<br/>
   5 stars Hotel.
