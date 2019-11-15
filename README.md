@@ -14,8 +14,7 @@ Statistical data types:<br/>
  <br/> examples<br/>
  Continous cases- <br/> speed of the car, Amount of  water in a bottle,  etc  <br/>
  Discrete cases- <br/>  IQ,  NUmber of heads after 20 coin tosses.<br/>
- 2) Categorical Data.<br/> This data type does not have mathematical meaning,They are also know as qualitative data and describes characteristics. 
- <br/>
+ 2) Categorical Data.<br/> This data type does not have mathematical meaning,They are also know as qualitative data and describes characteristics.<br/>
  Examples: <br/>
  Gender, Enthinicity,Nationality. etc <br/>
  3) Ordina Data.
