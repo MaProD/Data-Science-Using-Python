@@ -10,7 +10,12 @@ Statistical data types:<br/>
  As we discussed there are 3 types of statistical data types as listed below:<br/>
  
  1) Numerical Data.<br/>
+ Numerical data is also known as quantitative data, there are further categorized into Discrete and continous.
+ <br/> examples;
+ Continous cases- <br/> speed of the car. <br/> Amount of  water in a bottle,  etc  <br/>
+ Discrete cases- <br/>  IQ,.<br/> NUmber of heads after 20 coin tosses.<br/>
  2) Categorical Data.<br/>
+ 
  3) Ordina Data.
 
 .
