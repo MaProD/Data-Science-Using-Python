@@ -6,18 +6,11 @@ what is data science:  It is the process of deriving knowledge and insights  fro
 
 ![alt text](https://www.edureka.co/blog/wp-content/uploads/2017/01/Data-Science-skills.jpg)
 
-Statistical data types:
- As we discussed there are 3 types of statistical data types as listed below:
+Statistical data types:<br/>
+ As we discussed there are 3 types of statistical data types as listed below:<br/>
  
- 
- 1)Numerical Data.
- 
- 
- 
- 2) Categorical Data.
- 
- 
- 
+ 1) Numerical Data.<br/>
+ 2) Categorical Data.<br/>
  3) Ordina Data.
 
 .
