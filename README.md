@@ -1,6 +1,6 @@
-##  Data-Science-Using-Python
+#  Data-Science-Using-Python
 
-# 12th november 2019  meet up discussion.
+## 12th november 2019  meet up discussion.
 
 DATA SCIENCE: is the process of deriving knowledge and insights  from large set of data through organizing, processing and  and analysing the data. It is a multidisciplinary field that involved converting dta into information of knowledge. It combined different fields from mathematics to statistical computing to understanding business domain.
 <br/>
@@ -36,7 +36,7 @@ Statistical data types:<br/>
 .
 
 <br>
-#  Data visualization using python.
+##   Data visualization using python.
 <br>
 Data visualization is the discipline of trying to understand data by placing it in a visual context so that patterns, trends and correlations that might not otherwise be detected can be exposed.
 <br>
@@ -45,11 +45,11 @@ Python offers multiple great graphing libraries that come packed with lots of di
 Some of the most oftenly used data visualization libraryies in python are:
 <br> 
 To get a little overview here are a few popular plotting libraries:<br>
-Matplotlib: low level, provides lots of freedom.<br>
-Pandas Visualization: easy to use interface, built on Matplotlib.<br>
-Seaborn: high-level interface, great default styles.<br>
-ggplot: based on R’s ggplot2, uses Grammar of Graphics.<br>
-Plotly: can create interactive plots
+1).Matplotlib: low level, provides lots of freedom.<br>
+2).Pandas Visualization: easy to use interface, built on Matplotlib.<br>
+3).Seaborn: high-level interface, great default styles.<br>
+4) ggplot: based on R’s ggplot2, uses Grammar of Graphics.<br>
+5).Plotly: can create interactive plots
 <br> 
 But before we look at some kinds of plots, we will introduce some basic rules. Those rules help us make nice and informative plots instead of confusing ones.<br> 
 1).The first step is to choose the appropriate plot type. If there are various options, we can try to compare them, and choose the one that fits our model the best.<br>
