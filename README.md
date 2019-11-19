@@ -32,11 +32,8 @@ Statistical data types:<br/>
   <br/> This data type mixes numerical and categorical data types A good example is Hotel Rating;<br/>
   5 stars Hotel.
   3 stars Hotel.
-
-.
-
-<br>
-##   Data visualization using python.
+  
+##  Data visualization using python.
 <br>
 Data visualization is the discipline of trying to understand data by placing it in a visual context so that patterns, trends and correlations that might not otherwise be detected can be exposed.
 <br>
@@ -59,4 +56,5 @@ But before we look at some kinds of plots, we will introduce some basic rules. T
 5). Five, optionally we can add a text or an arrow at interesting data points.<br>
 6). Six, in some cases we can use some sizes and colors of the data to make the plot more informative.<br>
 
-There are many types of visualizations. Some of the most famous are: line plot, scatter plot, histogram, box plot, bar chart, and pie chart. But among so many options how do we choose the right visualization? First, we need to make some exploratory data analysis(That we did last meet-up). After we know the shape of the data, the data types, and other useful statistical information, it will be easier to pick the right visualization type.<br> 
+There are many types of visualizations. Some of the most famous are: line plot, scatter plot, histogram, box plot, bar chart, and pie chart. But among so many options how do we choose the right visualization? First, we need to make some exploratory data analysis(That we did last meet-up). After we know the shape of the data, the data types, and other useful statistical information, it will be easier to pick the right visualization type.<br>:
+
