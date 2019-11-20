@@ -58,3 +58,9 @@ But before we look at some kinds of plots, we will introduce some basic rules. T
 
 There are many types of visualizations. Some of the most famous are: line plot, scatter plot, histogram, box plot, bar chart, and pie chart. But among so many options how do we choose the right visualization? First, we need to make some exploratory data analysis(That we did last meet-up). After we know the shape of the data, the data types, and other useful statistical information, it will be easier to pick the right visualization type.<br>:
 
+
+
+
+Example of a heat map
+
+![alt text](https://mapline.com/wp-content/uploads/radial-heat-map-500x333.jpg)
