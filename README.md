@@ -61,6 +61,21 @@ There are many types of visualizations. Some of the most famous are: line plot, 
 
 
 
-Example of a heat map
+Heat map
 
 ![alt text](https://mapline.com/wp-content/uploads/radial-heat-map-500x333.jpg)
+
+
+Scatter plot
+
+![alt text](https://docs.datawatch.com/designer/tutorial/desktop/image1586.png)
+
+
+HistoGram
+
+![alt text](https://policyviz.com/wp-content/uploads/2018/11/PolicyViz-Histogram-image006-1140x700.png)
+
+Lineplot.
+
+![alt text](http://docs.enthought.com/chaco/_images/line_plot.png)
+
